@@ -15,4 +15,4 @@ Learn more about Slidev on [documentations](https://sli.dev/).
 ## Setup Repository
 
 - Go to `Setting -> Pages` and select `GitHub Actions` as a source. 
-- After the deployment ran successfully, you can visit https://{GITHUB_USER_NAME}.github.io/{REPOSITIRY_NAME}/
+- After deployment ran successfully, you can visit https://{GITHUB_USER_NAME}.github.io/{REPOSITIRY_NAME}/
