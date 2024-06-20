@@ -13,6 +13,8 @@ Edit the [slides.md](./slides.md) to see the changes.
 Learn more about Slidev on [documentations](https://sli.dev/).
 
 ## Setup Repository
-
 - Go to `Setting -> Pages` and select `GitHub Actions` as a source. 
 - After deployment ran successfully, you can visit https://{GITHUB_USER_NAME}.github.io/{REPOSITIRY_NAME}/
+
+## Important
+For organization repositories, the build step in `cd_ci.yml` should be modified to `npm run build` exclusively.
